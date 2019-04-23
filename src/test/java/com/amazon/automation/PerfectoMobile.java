@@ -25,6 +25,7 @@ public class PerfectoMobile {
 		capabilities.setCapability("model", "iPad Mini 4");
 		capabilities.setCapability("location", "NA-US-BOS");
 		capabilities.setCapability("resolution", "1536 x 2048");
+		
 		//Enter your user and password
 		capabilities.setCapability("user", "nandakumar.rangasamy@oracle.com");
 		capabilities.setCapability("password", "YgahY5ALe");
