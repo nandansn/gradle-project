@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.gradle.testng.SampleTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-02-13T02:40:26" hostname="NRANGASA-IN" time="0.019">
+  <properties/>
+  <testcase name="testOne" classname="com.gradle.testng.SampleTest" time="0.015"/>
+  <testcase name="testTwo" classname="com.gradle.testng.SampleTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
